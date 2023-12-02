@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "993476696496",
+    "firebase_url": "https://wisata-3f801-default-rtdb.firebaseio.com",
+    "project_id": "wisata-3f801",
+    "storage_bucket": "wisata-3f801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993476696496:android:d9e5f100fc6d54562f9e75",
+        "android_client_info": {
+          "package_name": "com.example.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPAvCbv-0bMkThul0YqRQQyiJ2e1igJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
